@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://leonid-holub.github.io/js-team-project",
+  "homepage": "https://Weector.github.io/js-team-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /js-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonid-holub/js-team-project.git"
+    "url": "git+https://github.com/Weector/js-team-project.git"
   },
   "keywords": [],
-  "author": "IT wariors <rsleonid@gmail.com>",
+  "author": "IT wariors <weektor@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leonid-holub/js-team-project/issues"
+    "url": "https://github.com/Weector/js-team-project/issues"
   },
   "dependencies": {
     "axios": "^1.1.2",
